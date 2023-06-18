@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1617c653.css",
+    "main.js": "/Portfolio/static/js/main.bc5eadf6.js",
+    "static/media/blog-post-graphic-how-to-design-the-perfect-mms-gif-1.gif": "/Portfolio/static/media/blog-post-graphic-how-to-design-the-perfect-mms-gif-1.31345d1cf3ad08bde736.gif",
+    "static/media/pic (2).jpg": "/Portfolio/static/media/pic (2).20dd32086c4e6c72c8ec.jpg",
+    "static/media/brush.png": "/Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "static/media/jpg": "/Portfolio/static/media/e085bb66e2845c3ea022e9ab176ff6d3.cbd91a63fdeebfce1c91.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1617c653.css.map": "/Portfolio/static/css/main.1617c653.css.map",
+    "main.bc5eadf6.js.map": "/Portfolio/static/js/main.bc5eadf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1617c653.css",
+    "static/js/main.bc5eadf6.js"
+  ]
+}
